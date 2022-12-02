@@ -10,3 +10,47 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.nav-link{
+    color: rgb(186, 186, 186);
+    display: inline;
+    margin-right: 20px;
+}
+
+.wrapper {
+    margin: 0% 8% 0% 8%;
+}
+
+.py-5 {
+    background-color: #cccccc;
+}
+
+.py-5 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card {
+    max-width: 24%;
+    margin-left: 4px;
+}
+
+.row {
+    width: 100%;
+    align-self: center;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.gridDiv {
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
