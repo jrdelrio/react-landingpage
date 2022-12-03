@@ -12,7 +12,7 @@ const Card = (prop) => {
                 <p className="card-text">{prop.description}</p>
             </div>
             <div className="card-footer">
-                <button className="btn btn-primary btn-lg" type="button">Find out more!</button>
+                <button className="btn btn-primary btn-lg card-button" type="button">Find out more!</button>
             </div>
             </div>
         </div>
